@@ -17,8 +17,8 @@ export default function Zigzag() {
             <h1 className="h2 mb-4">One Product, Unlimited Versatility</h1>
             <p className="text-xl text-gray-400">
               infiniteX2P also supports Studio Display and any other external
-              displays via USB-C or AirPlay. Connect to a keyboard and mouse to
-              experience its full capabilities.
+              displays via a compatible connector or AirPlay. Connect to a
+              keyboard and mouse to experience its full capabilities.
             </p>
           </div>
 
