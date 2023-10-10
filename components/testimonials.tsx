@@ -12,8 +12,8 @@ export default function Testimonials() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Don't take our word for it</h2>
             <p className="text-xl text-gray-400">
-              infiniteX2P has been recognized by several influencers as a
-              game-changing multitasking tool
+              infiniteX2P has been recognized by several developers and influencers as a
+              game-changing multitasking tool.
             </p>
           </div>
 
@@ -46,7 +46,7 @@ export default function Testimonials() {
                 — In my case, InfiniteX2P allows me to multitask with floating
                 windows on an external display, all powered by my iPhone 15 Pro
                 Max. Developers and apps like infiniteX2P give us a real look
-                and feel as to what this future could look like
+                and feel as to what this future could look like.
               </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Fernando Silva</cite>{" "}

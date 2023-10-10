@@ -12,7 +12,7 @@ export default function Banner() {
           <div className="bg-slate-800 text-slate-50 text-sm p-3 md:rounded shadow-lg flex justify-between">
             <div className="text-slate-500 inline-flex">
               <a
-                className="font-medium hover:underline text-slate-50"
+                className="font-medium hover:underline text-emerald-400"
                 href="https://apps.apple.com/ca/app/infinitex2p-multitasking/id1641611945"
                 target="_blank"
                 rel="noreferrer"
@@ -20,15 +20,6 @@ export default function Banner() {
                 Download
                 <span className="hidden sm:inline"> from the App Store</span>
               </a>{" "}
-              <span className="italic px-1.5">or</span>{" "}
-              <a
-                className="font-medium hover:underline text-emerald-400"
-                href="https://apps.apple.com/ca/developer/joonwoo-kim/id1626035990"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Check Out Other Apps
-              </a>
             </div>
             <button
               className="text-slate-500 hover:text-slate-400 pl-2 ml-3 border-l border-gray-700"

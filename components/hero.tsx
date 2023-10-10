@@ -69,9 +69,9 @@ export default function Hero() {
               <div data-aos="fade-up" data-aos-delay="600">
                 <a
                   className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4"
-                  href="https://twitter.com/iOS_App_Dev"
+                  href="https://twitter.com/infiniteX2P"
                 >
-                  Follow us on X
+                  Follow us on Twitter
                 </a>
               </div>
             </div>

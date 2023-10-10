@@ -14,7 +14,7 @@ export default function Zigzag() {
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">
               Now available for iPhone
             </div>
-            <h1 className="h2 mb-4">One product, unlimited versatility</h1>
+            <h1 className="h2 mb-4">One Product, Unlimited Versatility</h1>
             <p className="text-xl text-gray-400">
               infiniteX2P also supports Studio Display and any other external
               displays via USB-C or AirPlay. Connect to a keyboard and mouse to
@@ -65,7 +65,17 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Screen mirroring on Studio Display</span>
+                      <span>Full-screen mirroring on the external display</span>
+                    </li>
+                    <li className="flex items-center mb-2">
+                      <svg
+                        className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                        viewBox="0 0 12 12"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+                      </svg>
+                      <span>Up to 4K 60Hz on iPhone 15 Pro</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -133,6 +143,26 @@ export default function Zigzag() {
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
                       <span>Fully independent activity on Studio Display</span>
+                    </li>
+                    <li className="flex items-center mb-2">
+                      <svg
+                        className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                        viewBox="0 0 12 12"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+                      </svg>
+                      <span>Up to 6K 60Hz</span>
+                    </li>
+                    <li className="flex items-center mb-2">
+                      <svg
+                        className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0"
+                        viewBox="0 0 12 12"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+                      </svg>
+                      <span>HiDPI Support for 3.5K+ Display</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
