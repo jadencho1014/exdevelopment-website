@@ -98,7 +98,7 @@ export default function Features() {
               <h4 className="h4 mb-2">Files</h4>
               <p className="text-lg text-gray-400 text-center">
                 Manage, upload, and download files from your device. Drag and
-                drop between other apps and infiniteX2P is supported.
+                Drop within infiniteX2P is supported.
               </p>
             </div>
 
