@@ -1,8 +1,8 @@
-import Image from 'next/image'
+import Image from "next/image";
 
-import FeatImage01 from "@/public/images/ix2p_another_use_case.png";
-import FeatImage02 from "@/public/images/without-m1-m2.png";
-import FeatImage03 from "@/public/images/iphone_support.png";
+import FeatImage01 from "@/public/images/iphone_support.png";
+import FeatImage02 from "@/public/images/ix2p_another_use_case.png";
+import FeatImage03 from "@/public/images/without-m1-m2.png";
 
 export default function Zigzag() {
   return (
@@ -12,12 +12,13 @@ export default function Zigzag() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">
-              Now available for Studio and iPhone
+              Now available for iPhone
             </div>
             <h1 className="h2 mb-4">One product, unlimited versatility</h1>
             <p className="text-xl text-gray-400">
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-              officia deserunt mollit laborum — semper quis lectus nulla.
+              infiniteX2P also supports Studio Display and any other external
+              displays via USB-C or AirPlay. Connect to a keyboard and mouse to
+              experience its full capabilities.
             </p>
           </div>
 
@@ -45,13 +46,15 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    More speed. Less spend
+                    Fully functional computer on a pocket-sized device
                   </div>
-                  <h3 className="h3 mb-3">Keep projects on schedule</h3>
+                  <h3 className="h3 mb-3">infiniteX2P for iPhone</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    With the addition of USB-C ports to the new iPhone 15
+                    lineup, you can now use it to connect to a Studio Display
+                    with screen mirroring and use it as a computer. For other
+                    iPhone models, you still get the full functionality of
+                    infiniteX2P right in the palm of your hands.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -62,7 +65,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Screen mirroring on Studio Display</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -72,7 +75,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>AirPlay support</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -82,7 +85,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Keyboard and mouse support</span>
                     </li>
                   </ul>
                 </div>
@@ -111,13 +114,14 @@ export default function Zigzag() {
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    More speed. Less spend
+                    Experience the power of the M1 and M2 chips
                   </div>
-                  <h3 className="h3 mb-3">Keep projects on schedule</h3>
+                  <h3 className="h3 mb-3">infiniteX2P for iPad (M1 or M2)</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    With the M1 and M2 chips you can now essentially use
+                    infiniteX2P as a dual monitor setup through a Studio
+                    Display. Multitasking is easier than ever with extra screen
+                    real estate.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -128,7 +132,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Fully independent activity on Studio Display</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -138,7 +142,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>AirPlay support</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -148,7 +152,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Keyboard and mouse support</span>
                     </li>
                   </ul>
                 </div>
@@ -177,13 +181,18 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    More speed. Less spend
+                    Multitask with Studio Display
                   </div>
-                  <h3 className="h3 mb-3">Keep projects on schedule</h3>
+                  <h3 className="h3 mb-3">
+                    infiniteX2P for iPad
+                    <br />
+                    (without M1 or M2)
+                  </h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    infiniteX2P for iPad models without M1 or M2 is still
+                    powerful enough to support a split-screen activity with
+                    third-part apps. When connected to a Studio Display, it will
+                    mirror the infiniteX2P window.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -194,7 +203,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Split-screen activity with third-party apps</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -204,7 +213,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>AirPlay support</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -214,7 +223,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Keyboard and mouse support</span>
                     </li>
                   </ul>
                 </div>

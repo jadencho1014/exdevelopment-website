@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "iX2P for Studio and iPhone",
+  title: "iX2P Studio",
   description: "Page description",
 };
 
