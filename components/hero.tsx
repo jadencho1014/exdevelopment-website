@@ -1,4 +1,4 @@
-import VideoThumb from "@/public/images/iPad_only.png";
+import VideoThumb from "@/public/images/iX2P_Hero.png";
 import ModalVideo from "@/components/modal-video";
 import Link from "next/link";
 
