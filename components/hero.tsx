@@ -75,6 +75,21 @@ export default function Hero() {
                 </a>
               </div>
             </div>
+            <br />
+            <div data-aos="fade-up" data-aos-delay="800">
+              <a
+                className="btn w-full mb-4 sm:w-auto sm:mb-0"
+                href="https://apps.apple.com/ca/app/infinitex2p-multitasking/id1641611945"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"
+                  alt="Download from App Store"
+                  width={150}
+                />
+              </a>
+            </div>
           </div>
 
           <ModalVideo

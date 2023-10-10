@@ -48,10 +48,10 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
                     Fully functional computer on a pocket-sized device
                   </div>
-                  <h3 className="h3 mb-3">infiniteX2P for iPhone</h3>
+                  <h3 className="h3 mb-3">infiniteX2P Studio for iPhone</h3>
                   <p className="text-xl text-gray-400 mb-4">
                     With the addition of USB-C ports to the new iPhone 15
-                    lineup, you can now use it to connect to a Studio Display
+                    lineup, you can now use it to connect to an external display
                     with screen mirroring and use it as a computer. For other
                     iPhone models, you still get the full functionality of
                     infiniteX2P right in the palm of your hands.
@@ -126,11 +126,15 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
                     Experience the power of the M1 and M2 chips
                   </div>
-                  <h3 className="h3 mb-3">infiniteX2P for iPad (M1 or M2)</h3>
+                  <h3 className="h3 mb-3">
+                    infiniteX2P Studio for iPad
+                    <br />
+                    (M1 or M2)
+                  </h3>
                   <p className="text-xl text-gray-400 mb-4">
                     With the M1 and M2 chips you can now essentially use
-                    infiniteX2P as a dual monitor setup through a Studio
-                    Display. Multitasking is easier than ever with extra screen
+                    infiniteX2P as a dual monitor setup through a external
+                    display. Multitasking is easier than ever with extra screen
                     real estate.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
@@ -142,7 +146,9 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Fully independent activity on Studio Display</span>
+                      <span>
+                        Fully independent activity on external display
+                      </span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -162,7 +168,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>HiDPI Support for 3.5K+ Display</span>
+                      <span>HiDPI support for 3.5K+ display</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -211,18 +217,18 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    Multitask with Studio Display
+                    Multitask with an external display
                   </div>
                   <h3 className="h3 mb-3">
-                    infiniteX2P for iPad
+                    infiniteX2P Studio for iPad
                     <br />
                     (without M1 or M2)
                   </h3>
                   <p className="text-xl text-gray-400 mb-4">
                     infiniteX2P for iPad models without M1 or M2 is still
                     powerful enough to support a split-screen activity with
-                    third-part apps. When connected to a Studio Display, it will
-                    mirror the infiniteX2P window.
+                    third-part apps. When connected to an external display, it
+                    will mirror the infiniteX2P window.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
